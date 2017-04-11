@@ -10,16 +10,26 @@ XML Periodic Table HTML Website
 		<link rel="stylesheet" type="text/css" href="xmlPT.css">
 		<script src="jquery-3.1.1.min.js"></script>
 	</head>
-	<body>
-		<h1>XML Periodic Table</h1>
-		<h3>Project Coire Gavin-Hanner</h3>
-		<hr>
-		<div class ="sidebar" id = "sidebar"><img src="PongSidebar.png"/></div>
-		<p><input type="button" onclick="javascript: connectToServer()" name="submit" value="Connect"/></p>
-		<div class = "section" id = "userInfo"></div>
-		<canvas id="canvas" width="600px" height="600px"></canvas>
-		<script type = "text/javascript" src="pong.js"></script>
-		<p><input type="button" onclick="javascript: startGame()" name="submit" value="Start Game"/></p>
+	<body onload="init()">
+		<form onsubmit="return false">
+			<h1>XML Periodic Table</h1>
+			<h3>Project Coire Gavin-Hanner</h3>
+			<table>
+				<tbody>
+					<tr>
+						<td align="right">Element Number</td>
+						<td align="left">
+							<input name="elementNumber" type="number" maxlength="3" id="elementNumber">
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<p>
+				<input type="Button" onclick="javascript: getAtomInfo()" name="getinfo" value="Submit">
+			</p>
+			<div id="responseArea">
+			</dv>
+		</form>
 	</body>
 </html>
 
