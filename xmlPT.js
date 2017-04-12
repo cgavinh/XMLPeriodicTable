@@ -1,19 +1,38 @@
-//XML Periodic Table JavaScript
+var atoms = [];
 
-function init() 
+$(document).ready(function()
 {
-	if (window.XMLHttpRequest)
-    {// code for IE7+, Firefox, Chrome, Opera, Safari
-    	xmlhttp=new XMLHttpRequest();
-    }
-  	else
-    {// code for IE6, IE5
-    	xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-    }
-  	biblePath="allelements.xml"
-}
+	function parse(document)
+	{
+		$(document).find("ATOM").each(function()
+		{
+			/*$("#content").append(
+			   '<br /> Name: '+$(this).find('NAME').text()
+			 );*/
+			var numberText = $(this).find('ATOMIC_NUMBER').text();
+			var number = parseInt(numberText);
+			atoms[number]=$(this);
+		});
+	}
+
+	$.ajax(
+	{
+		url: 'allelements.xml', // name of file you want to parse
+		dataType: "xml",
+		success: parse,
+		error: function(){alert("Error: Something went wrong");}
+	});
+});
 
 function getAtomInfo()
 {
-	$("#responseArea").html("Hello");
+	var n=$('#elementNumber').val();
+	console.log(n);
+	console.log(atoms[n]);
+	$("#content").append(
+		'<br /> Name: '+$(atoms[n]).find('NAME').text() +
+		'<br /> Atomic Weight: '+$(atoms[n]).find('ATOMIC_WEIGHT').text() +
+		'<br /> Oxidation States: '+$(atoms[n]).find('OXIDATION_STATES').text());
 }
+	
+

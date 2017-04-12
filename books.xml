@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+  <book isbn10="1234567890" isbn13="1234567890123">
+    <title>XML for Kenyon</title>
+    <author fname="james" lname="skon">James Skon</author>
+    <publisher>Kenyon Review</publisher>
+    <price>1.99</price>
+  </book>
+  <book isbn10="8957468873" isbn13="0984837828189">
+    <title>C++ on the hill</title>
+    <author fname="Noah" lname="Aydin">Noah Aydin</author>
+    <publisher>Kenyon Review</publisher>
+    <price>2.99</price>
+  </book>
+    <book isbn10="8957468873" isbn13="0984837828189">
+    <title>Bicohem</title>
+    <author fname="Coire" lname="Gavin-Hanner">Coire Gavin-Hanner</author>
+    <publisher>Kenyon Review</publisher>
+    <price>50.99</price>
+  </book>
+    <book isbn10="8957468873" isbn13="0984837828189">
+    <title>Swimming</title>
+    <author fname="Coire" lname="Gavin-Hanner">Coire Gavin-Hanner</author>
+    <publisher>Kenyon Review</publisher>
+    <price>1.99</price>
+  </book>
+</library>
