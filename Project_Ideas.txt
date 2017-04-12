@@ -1,0 +1,6 @@
+Ideas for Periodic Table webpage
+	-Canvas drawing of table
+	-show states of matter depending on temperature
+	-get information about specific atoms
+	-get information about element when you click on the canvas
+	-search for elements based on different criteria
