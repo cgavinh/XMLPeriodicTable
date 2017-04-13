@@ -6,9 +6,6 @@ $(document).ready(function()
 	{
 		$(document).find("ATOM").each(function()
 		{
-			/*$("#content").append(
-			   '<br /> Name: '+$(this).find('NAME').text()
-			 );*/
 			var numberText = $(this).find('ATOMIC_NUMBER').text();
 			var number = parseInt(numberText);
 			atoms[number]=$(this);
@@ -24,7 +21,7 @@ $(document).ready(function()
 	});
 });
 
-function getAtomInfo()
+/*function getAtomInfo()
 {
 	$('#content').empty();
 	var n=$('#elementNumber').val();
@@ -32,6 +29,18 @@ function getAtomInfo()
 		'<br /> Name: '+$(atoms[n]).find('NAME').text() +
 		'<br /> Atomic Weight: '+$(atoms[n]).find('ATOMIC_WEIGHT').text() +
 		'<br /> Oxidation States: '+$(atoms[n]).find('OXIDATION_STATES').text());
-}
-	
+}*/
 
+function getAtomInfo()
+{
+	$('#content').empty();
+	var n=$('#elementNumber').val();
+	atoms[n].children().each(function()
+	{
+		nodeName = this.nodeName;
+		console.log("each");
+		console.log(this);
+		$("#content").append(
+			'<br />'+nodeName + ': '+$(this).text());
+	});
+}
