@@ -1,5 +1,5 @@
 # Put your user name below:                                                                                                                                                                                                                   
-USER= gavinhannerc
+USER= seavera
 CC= g++ -std=c++11
 
 #For Optimization                                                                                                                                                                                                                             
@@ -17,8 +17,6 @@ PutHTML:
 	cp xmlPT.js  /var/www/html/class/softdev/$(USER)/Project5_XMLPeriodicTable
 	cp jquery-3.1.1.min.js  /var/www/html/class/softdev/$(USER)/Project5_XMLPeriodicTable
 	cp allelements.xml  /var/www/html/class/softdev/$(USER)/Project5_XMLPeriodicTable
-	cp books.xml  /var/www/html/class/softdev/$(USER)/Project5_XMLPeriodicTable
-	cp books.html  /var/www/html/class/softdev/$(USER)/Project5_XMLPeriodicTable
 
 	echo "Current contents of your HTML directory: "
 	ls -l /var/www/html/class/softdev/$(USER)/Project5_XMLPeriodicTable
