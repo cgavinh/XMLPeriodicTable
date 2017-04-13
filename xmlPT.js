@@ -26,9 +26,8 @@ $(document).ready(function()
 
 function getAtomInfo()
 {
+	$('#content').empty();
 	var n=$('#elementNumber').val();
-	console.log(n);
-	console.log(atoms[n]);
 	$("#content").append(
 		'<br /> Name: '+$(atoms[n]).find('NAME').text() +
 		'<br /> Atomic Weight: '+$(atoms[n]).find('ATOMIC_WEIGHT').text() +
