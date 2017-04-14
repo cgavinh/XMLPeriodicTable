@@ -1,3 +1,12 @@
+#content
+{
+	position: absolute;
+	top: 750px;
+	left: 100px;
+}
+
+
+
 #element1
 {
 	background: blue;
@@ -9,8 +18,9 @@
 #element2
 {
 	background: blue;
-	position: relative;
-	left: 1664px;
+	position: absolute;
+	top: 200px;
+	left: 923px;
 }
 
 #element3
@@ -24,57 +34,57 @@
 #element4
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: -208px;
+	position: absolute;
+	top: 254px;
+	left: 59px;
 }
 
 #element5
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: 832px;
+	position: absolute;
+	top: 254px;
+	left: 653px;
 }
 
 #element6
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: 832px;
+	position: absolute;
+	top: 254px;
+	left: 707px;
 }
 
 #element7
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: 832px;
+	position: absolute;
+	top: 254px;
+	left: 761px;
 }
 
 #element8
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: 832px;
+	position: absolute;
+	top: 254px;
+	left: 815px;
 }
 
 #element9
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: 832px;
+	position: absolute;
+	top: 254px;
+	left: 869px;
 }
 
 #element10
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: 832px;
+	position: absolute;
+	top: 254px;
+	left: 923px;
 }
 
 #element11
@@ -88,57 +98,57 @@
 #element12
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: -1040px;
+	position: absolute;
+	top: 308px;
+	left: 59px;
 }
 
 #element13
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 308px;
+	left: 653px;
 }
 
 #element14
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 308px;
+	left: 707px;
 }
 
 #element15
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 308px;
+	left: 761px;
 }
 
 #element16
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 308px;
+	left: 815px;
 }
 
 #element17
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 308px;
+	left: 869px;
 }
 
 #element18
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 308px;
+	left: 923px;
 }
 
 #element19
@@ -152,137 +162,137 @@
 #element20
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 59px;
 }
 
 #element21
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 113px;
 }
 
 #element22
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 167px;
 }
 
 #element23
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 221px;
 }
 
 #element24
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 275px;
 }
 
 #element25
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 329px;
 }
 
 #element26
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 383px;
 }
 
 #element27
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 437px;
 }
 
 #element28
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 491px;
 }
 
 #element29
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 545px;
 }
 
 #element30
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 599px;
 }
 
 #element31
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 653px;
 }
 
 #element32
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 707px;
 }
 
 #element33
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 761px;
 }
 
 #element34
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 815px;
 }
 
 #element35
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 869px;
 }
 
 #element36
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 923px;
 }
 
 #element37
@@ -296,137 +306,137 @@
 #element38
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 59px;
 }
 
 #element39
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 113px;
 }
 
 #element40
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 167px;
 }
 
 #element41
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 221px;
 }
 
 #element42
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 275px;
 }
 
 #element43
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 329px;
 }
 
 #element44
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 383px;
 }
 
 #element45
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 437px;
 }
 
 #element46
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 491px;
 }
 
 #element47
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 545px;
 }
 
 #element48
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 599px;
 }
 
 #element49
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 653px;
 }
 
 #element50
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 707px;
 }
 
 #element51
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 761px;
 }
 
 #element52
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 815px;
 }
 
 #element53
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 869px;
 }
 
 #element54
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 923px;
 }
 
 #element55
@@ -437,10 +447,530 @@
 	left: 5px;
 }
 
+#element56
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 59px;
+}
+
+#element57
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 167px;
+}
+
+#element58
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 221px;
+}
+
+#element59
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 275px;
+}
+
+#element60
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 329px;
+}
+
+#element61
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 383px;
+}
+
+#element62
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 437px;
+}
+
+#element63
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 491px;
+}
+
+#element64
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 545px;
+}
+
+#element65
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 599px;
+}
+
+#element66
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 653px;
+}
+
+#element67
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 707px;
+}
+
+#element68
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 761px;
+}
+
+#element69
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 815px;
+}
+
+#element70
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 869px;
+}
+
+#element71
+{
+	background: blue;
+	position: absolute;
+	top: 650px;
+	left: 923px;
+}
+
+#element57_71
+{
+	background: black;
+	position: absolute;
+	top: 470px;
+	left: 113px;
+}
+
+#element72
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 167px;
+}
+
+#element72
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 167px;
+}
+
+#element73
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 221px;
+}
+
+#element74
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 275px;
+}
+
+#element75
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 329px;
+}
+
+#element76
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 383px;
+}
+
+#element77
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 437px;
+}
+
+#element78
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 491px;
+}
+
+#element79
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 545px;
+}
+
+#element80
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 599px;
+}
+
+#element81
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 653px;
+}
+
+#element82
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 707px;
+}
+
+#element83
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 761px;
+}
+
+#element84
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 815px;
+}
+
+#element85
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 869px;
+}
+
+#element86
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 923px;
+}
+
 #element87
 {
 	background: blue;
 	position: absolute;
 	top: 524px;
 	left: 5px;
+}
+
+#element88
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 59px;
+}
+
+#element89_103
+{
+	background: black;
+	position: absolute;
+	top: 524px;
+	left: 113px;
+}
+
+#element89
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 167px;
+}
+
+#element90
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 221px;
+}
+
+#element91
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 275px;
+}
+
+#element92
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 329px;
+}
+
+#element93
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 383px;
+}
+
+#element94
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 437px;
+}
+
+#element95
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 491px;
+}
+
+#element96
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 545px;
+}
+
+#element97
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 599px;
+}
+
+#element98
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 653px;
+}
+
+#element99
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 707px;
+}
+
+#element100
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 761px;
+}
+
+#element101
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 815px;
+}
+
+#element102
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 869px;
+}
+
+#element103
+{
+	background: blue;
+	position: absolute;
+	top: 704px;
+	left: 923px;
+}
+
+#element104
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 167px;
+}
+
+#element105
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 221px;
+}
+
+#element106
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 275px;
+}
+
+#element107
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 329px;
+}
+
+#element108
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 383px;
+}
+
+#element109
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 437px;
+}
+
+#element110
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 491px;
+}
+
+#element111
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 545px;
+}
+
+#element112
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 599px;
+}
+
+#element113
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 653px;
+}
+
+#element114
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 707px;
+}
+
+#element115
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 761px;
+}
+
+#element116
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 815px;
+}
+
+#element117
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 869px;
+}
+
+#element118
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 923px;
 }
