@@ -44,3 +44,4 @@ function getAtomInfo()
 			'<br />'+nodeName + ': '+$(this).text());
 	});
 }
+

@@ -1,7 +1,9 @@
 #element1
 {
 	background: blue;
-	position: relative;
+	position: absolute;
+	top: 200px;
+	left: 5px;
 }
 
 #element2
@@ -14,9 +16,9 @@
 #element3
 {
 	background: blue;
-	position: relative;
-	top: 104px;
-	left: -208px;
+	position: absolute;
+	top: 254px;
+	left: 5px;
 }
 
 #element4
@@ -78,9 +80,9 @@
 #element11
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: -1040px;
+	position: absolute;
+	top: 308px;
+	left: 5px;
 }
 
 #element12
@@ -142,9 +144,9 @@
 #element19
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 362px;
+	left: 5px;
 }
 
 #element20
@@ -286,9 +288,9 @@
 #element37
 {
 	background: blue;
-	position: relative;
-	top: 208px;
-	left: 0px;
+	position: absolute;
+	top: 416px;
+	left: 5px;
 }
 
 #element38
@@ -425,4 +427,20 @@
 	position: relative;
 	top: 208px;
 	left: 0px;
+}
+
+#element55
+{
+	background: blue;
+	position: absolute;
+	top: 470px;
+	left: 5px;
+}
+
+#element87
+{
+	background: blue;
+	position: absolute;
+	top: 524px;
+	left: 5px;
 }
