@@ -10,6 +10,29 @@ $(document).ready(function()
 			var number = parseInt(numberText);
 			atoms[number]=$(this);
 		});
+		for (var i = 1; i <= 112; i++)
+		{
+			var symbol = atoms[i].find('SYMBOL').text();
+			var currentNumber = i.toString();
+			var currentElement = element + currentNumber;
+			var hashtag = "#";
+			var string = hashtag + currentElement;
+			var c = $(string)[0];
+			var ctx = c.getContext("2d");
+			ctx.font = "20px Arial";
+			if(symbol.length == 1)
+			{
+				ctx.fillText(symbol, 18, 33);
+			}
+			if(symbol.length == 2)
+			{
+				ctx.fillText(symbol, 13, 33);
+			}
+			if(symbol.length == 3)
+			{
+				ctx.fillText(symbol, 8, 33);
+			}
+		}
 	}
 
 	$.ajax(
@@ -19,7 +42,15 @@ $(document).ready(function()
 		success: parse,
 		error: function(){alert("Error: Something went wrong");}
 	});
+	
+	var element= "element";
+	
+	
+	
+	
 });
+
+
 
 function getAtomInfo(n)
 {
@@ -28,11 +59,11 @@ function getAtomInfo(n)
 	atoms[n].children().each(function()
 	{
 		nodeName = this.nodeName;
-		console.log("each");
-		console.log(this);
 		$("#content").append(
 			'<tr>'+ '<td>'+nodeName + ': '+'</td>'+'<td>'+$(this).text()+'</td>'+'</tr>');
 	});
 	$('#content').append('</table>')
 }
+
+
 
