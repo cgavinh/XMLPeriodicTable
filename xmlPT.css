@@ -1,8 +1,8 @@
 #content
 {
 	position: absolute;
-	top: 750px;
-	left: 100px;
+	top: 675px;
+	left: 350px;
 }
 
 
@@ -10,568 +10,639 @@
 #element1
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 200px;
+	top: 100px;
 	left: 5px;
 }
 
 #element2
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 200px;
+	top: 100px;
 	left: 923px;
 }
 
 #element3
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 5px;
 }
 
 #element4
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 59px;
 }
 
 #element5
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 653px;
 }
 
 #element6
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 707px;
 }
 
 #element7
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 761px;
 }
 
 #element8
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 815px;
 }
 
 #element9
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 869px;
 }
 
 #element10
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 254px;
+	top: 154px;
 	left: 923px;
 }
 
 #element11
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 5px;
 }
 
 #element12
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 59px;
 }
 
 #element13
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 653px;
 }
 
 #element14
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 707px;
 }
 
 #element15
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 761px;
 }
 
 #element16
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 815px;
 }
 
 #element17
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 869px;
 }
 
 #element18
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 308px;
+	top: 208px;
 	left: 923px;
 }
 
 #element19
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 5px;
 }
 
 #element20
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 59px;
 }
 
 #element21
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 113px;
 }
 
 #element22
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 167px;
 }
 
 #element23
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 221px;
 }
 
 #element24
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 275px;
 }
 
 #element25
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 329px;
 }
 
 #element26
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 383px;
 }
 
 #element27
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 437px;
 }
 
 #element28
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 491px;
 }
 
 #element29
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 545px;
 }
 
 #element30
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 599px;
 }
 
 #element31
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 653px;
 }
 
 #element32
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 707px;
 }
 
 #element33
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 761px;
 }
 
 #element34
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 815px;
 }
 
 #element35
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 869px;
 }
 
 #element36
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 362px;
+	top: 262px;
 	left: 923px;
 }
 
 #element37
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 5px;
 }
 
 #element38
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 59px;
 }
 
 #element39
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 113px;
 }
 
 #element40
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 167px;
 }
 
 #element41
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 221px;
 }
 
 #element42
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 275px;
 }
 
 #element43
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 329px;
 }
 
 #element44
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 383px;
 }
 
 #element45
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 437px;
 }
 
 #element46
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 491px;
 }
 
 #element47
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 545px;
 }
 
 #element48
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 599px;
 }
 
 #element49
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 653px;
 }
 
 #element50
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 707px;
 }
 
 #element51
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 761px;
 }
 
 #element52
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 815px;
 }
 
 #element53
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 869px;
 }
 
 #element54
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 416px;
+	top: 316px;
 	left: 923px;
 }
 
 #element55
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 5px;
 }
 
 #element56
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 59px;
 }
 
 #element57
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 167px;
 }
 
 #element58
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 221px;
 }
 
 #element59
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 275px;
 }
 
 #element60
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 329px;
 }
 
 #element61
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 383px;
 }
 
 #element62
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 437px;
 }
 
 #element63
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 491px;
 }
 
 #element64
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 545px;
 }
 
 #element65
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 599px;
 }
 
 #element66
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 653px;
 }
 
 #element67
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 707px;
 }
 
 #element68
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 761px;
 }
 
 #element69
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 815px;
 }
 
 #element70
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 869px;
 }
 
 #element71
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 650px;
+	top: 550px;
 	left: 923px;
 }
 
@@ -579,151 +650,169 @@
 {
 	background: black;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 113px;
 }
 
 #element72
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 167px;
 }
 
 #element72
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 167px;
 }
 
 #element73
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 221px;
 }
 
 #element74
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 275px;
 }
 
 #element75
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 329px;
 }
 
 #element76
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 383px;
 }
 
 #element77
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 437px;
 }
 
 #element78
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 491px;
 }
 
 #element79
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 545px;
 }
 
 #element80
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 599px;
 }
 
 #element81
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 653px;
 }
 
 #element82
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 707px;
 }
 
 #element83
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 761px;
 }
 
 #element84
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 815px;
 }
 
 #element85
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 869px;
 }
 
 #element86
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 470px;
+	top: 370px;
 	left: 923px;
 }
 
 #element87
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 5px;
 }
 
 #element88
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 59px;
 }
 
@@ -731,246 +820,276 @@
 {
 	background: black;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 113px;
 }
 
 #element89
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 167px;
 }
 
 #element90
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 221px;
 }
 
 #element91
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 275px;
 }
 
 #element92
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 329px;
 }
 
 #element93
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 383px;
 }
 
 #element94
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 437px;
 }
 
 #element95
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 491px;
 }
 
 #element96
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 545px;
 }
 
 #element97
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 599px;
 }
 
 #element98
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 653px;
 }
 
 #element99
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 707px;
 }
 
 #element100
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 761px;
 }
 
 #element101
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 815px;
 }
 
 #element102
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 869px;
 }
 
 #element103
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 704px;
+	top: 604px;
 	left: 923px;
 }
 
 #element104
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 167px;
 }
 
 #element105
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 221px;
 }
 
 #element106
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 275px;
 }
 
 #element107
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 329px;
 }
 
 #element108
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 383px;
 }
 
 #element109
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 437px;
 }
 
 #element110
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 491px;
 }
 
 #element111
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 545px;
 }
 
 #element112
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 599px;
 }
 
 #element113
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 653px;
 }
 
 #element114
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 707px;
 }
 
 #element115
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 761px;
 }
 
 #element116
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 815px;
 }
 
 #element117
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 869px;
 }
 
 #element118
 {
 	background: blue;
+	cursor: pointer;
 	position: absolute;
-	top: 524px;
+	top: 424px;
 	left: 923px;
 }

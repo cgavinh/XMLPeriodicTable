@@ -21,27 +21,18 @@ $(document).ready(function()
 	});
 });
 
-/*function getAtomInfo()
+function getAtomInfo(n)
 {
 	$('#content').empty();
-	var n=$('#elementNumber').val();
-	$("#content").append(
-		'<br /> Name: '+$(atoms[n]).find('NAME').text() +
-		'<br /> Atomic Weight: '+$(atoms[n]).find('ATOMIC_WEIGHT').text() +
-		'<br /> Oxidation States: '+$(atoms[n]).find('OXIDATION_STATES').text());
-}*/
-
-function getAtomInfo()
-{
-	$('#content').empty();
-	var n=$('#elementNumber').val();
+	$('#content').append('<table>')
 	atoms[n].children().each(function()
 	{
 		nodeName = this.nodeName;
 		console.log("each");
 		console.log(this);
 		$("#content").append(
-			'<br />'+nodeName + ': '+$(this).text());
+			'<tr>'+ '<td>'+nodeName + ': '+'</td>'+'<td>'+$(this).text()+'</td>'+'</tr>');
 	});
+	$('#content').append('</table>')
 }
 
