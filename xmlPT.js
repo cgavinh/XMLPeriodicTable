@@ -25,14 +25,23 @@ $(document).ready(function()
 				if(symbol.length == 1)
 				{
 					ctx.fillText(symbol, 18, 33);
+					var dtx = ctx
+					dtx.font = "bold 12px Arial";
+					dtx.fillText(i, 2, 12);
 				}
 				if(symbol.length == 2)
 				{
 					ctx.fillText(symbol, 13, 33);
+					var dtx = ctx
+					dtx.font = "bold 12px Arial";
+					dtx.fillText(i, 2, 12);
 				}
 				if(symbol.length == 3)
 				{
 					ctx.fillText(symbol, 8, 33);
+					var dtx = ctx
+					dtx.font = "bold 12px Arial";
+					dtx.fillText(i, 2, 12);
 				}
 			}
 			else
@@ -41,26 +50,54 @@ $(document).ready(function()
 				var ctx = c.getContext("2d");
 				ctx.font = "20px Arial";
 				ctx.fillText('Uut', 8, 33);
+				var dtx = ctx
+				dtx.font = "12px Arial";
+				dtx.fillText(113, 2, 12);
 				c = $("#element114")[0];
 				ctx = c.getContext("2d");
 				ctx.font = "20px Arial";
 				ctx.fillText('Uuq', 8, 33);
+				var dtx = ctx
+				dtx.font = "12px Arial";
+				dtx.fillText(114, 2, 12);
 				c = $("#element115")[0];
 				ctx = c.getContext("2d");
 				ctx.font = "20px Arial";
 				ctx.fillText('Uup', 8, 33);
+				var dtx = ctx
+				dtx.font = "12px Arial";
+				dtx.fillText(115, 2, 12);
 				c = $("#element116")[0];
 				ctx = c.getContext("2d");
 				ctx.font = "20px Arial";
 				ctx.fillText('Uuh', 8, 33);
+				var dtx = ctx
+				dtx.font = "12px Arial";
+				dtx.fillText(116, 2, 12);
 				c = $("#element117")[0];
 				ctx = c.getContext("2d");
 				ctx.font = "20px Arial";
 				ctx.fillText('Uus', 8, 33);
+				var dtx = ctx
+				dtx.font = "12px Arial";
+				dtx.fillText(117, 2, 12);
 				c = $("#element118")[0];
 				ctx = c.getContext("2d");
 				ctx.font = "20px Arial";
 				ctx.fillText('Uuo', 8, 33);
+				var dtx = ctx
+				dtx.font = "12px Arial";
+				dtx.fillText(118, 2, 12);
+				c = $("#element57_71")[0];
+				ctx = c.getContext("2d");
+				ctx.font = "14px Arial";
+				ctx.fillStyle = "white";
+				ctx.fillText('57-71', 8, 31);
+				c = $("#element89_103")[0];
+				ctx = c.getContext("2d");
+				ctx.font = "12px Arial";
+				ctx.fillStyle = "white";
+				ctx.fillText('89-103', 6, 31);
 			}
 		}
 	}
