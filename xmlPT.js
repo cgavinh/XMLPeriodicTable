@@ -1,10 +1,10 @@
-var atoms = [];
+var atoms = []; //creates a vector that will hold the information for each element
 
 $(document).ready(function()
 {
 	function parse(document)
 	{
-		$(document).find("ATOM").each(function()
+		$(document).find("ATOM").each(function() //creates an array with each index holding an element node. index 1 holds element 1, etc
 		{
 			var numberText = $(this).find('ATOMIC_NUMBER').text();
 			var number = parseInt(numberText);
@@ -12,7 +12,7 @@ $(document).ready(function()
 		});
 		for (var i = 1; i <= 118; i++)
 		{
-			if (i < 113)
+			if (i < 113) //If the XML document includes the elements
 			{
 				var symbol = atoms[i].find('SYMBOL').text();
 				var currentNumber = i.toString();
@@ -22,7 +22,7 @@ $(document).ready(function()
 				var c = $(string)[0];
 				var ctx = c.getContext("2d");
 				ctx.font = "bold 20px Arial";
-				if(symbol.length == 1)
+				if(symbol.length == 1) //prints the element symbol in the correct box
 				{
 					ctx.fillText(symbol, 18, 33);
 					var dtx = ctx
@@ -44,7 +44,7 @@ $(document).ready(function()
 					dtx.fillText(i, 2, 12);
 				}
 			}
-			else
+			else // if the elements are not on the XML document
 			{
 				var c = $("#element113")[0];
 				var ctx = c.getContext("2d");
@@ -121,19 +121,19 @@ $(document).ready(function()
 
 function getAtomInfo(n)
 {
-	if (n < 113)
+	if (n < 113) //if the element is included in the XML document
 	{
 		$('#content').empty();
 		$('#content').append('<table>')
-		atoms[n].children().each(function()
+		atoms[n].children().each(function() //append a table to the content div that includes all of the information in the XML doc
 		{
 			nodeName = this.nodeName;
 			$("#content").append(
-				'<tr>'+ '<td>'+nodeName + ': '+'</td>'+'<td>'+$(this).text()+'</td>'+'</tr>');
+				'<tr>'+ '<td style="padding-right: 10px">'+nodeName + ': '+'</td>'+'<td>'+$(this).text()+'</td>'+'</tr>');
 		});
 		$('#content').append('</table>')
 	}
-	else
+	else //if the element is not included, append a message to the content div explaining that  fact
 	{
 		$('#content').empty();
 		$('#content').append('<table>')

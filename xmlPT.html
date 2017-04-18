@@ -14,8 +14,10 @@ XML Periodic Table HTML Website
 	<body>
 		<h1>XML Periodic Table</h1>
 		<h3>Project by Coire Gavin-Hanner and Alex Seaver</h3>
-		<div id="content"></div>
-		<div id="table">
+		<div id="content"> Click on an element on the table for more information about it</div>
+		<!-- Because we had to draw so many canvases, I drew them in another div so that the outer div could be collapsed in a text editor.
+		this way, the rest of the code could be easily looked at while still including all of the necessary lines of code to draw the canvases-->
+		<div id="table"> 
 			<canvas id="element1" width="50px" height="50px" style="border:1px solid #000000;" onclick="getAtomInfo(1)"></canvas>
 			<canvas id="element2" width="50px" height="50px" style="border:1px solid #000000;" onclick="getAtomInfo(2)"></canvas>
 			<canvas id="element3" width="50px" height="50px" style="border:1px solid #000000;" onclick="getAtomInfo(3)"></canvas>

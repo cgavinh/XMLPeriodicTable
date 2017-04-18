@@ -1,8 +1,18 @@
+/* We ran into the same issue in the css file as the html; we had many lines of code that had to be included,
+* with no conceivable workaround available to us. I was unaware of a way to at least make the file collapsable so it remains long with no way of collapsing a block of code
+* The first 10 or so lines deal with the body and the content divs and the rest of the css file simply arranges the table in the correct position */
+body {
+    background-color: lightblue;
+}
+
 #content
 {
 	position: absolute;
 	top: 675px;
 	left: 350px;
+	width: 500px;
+	height: 300px;
+	overflow: scroll;
 }
 
 
